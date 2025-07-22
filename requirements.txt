@@ -1,0 +1,8 @@
+The file lists all Python libraries required to run AirMaths project.
+
+1. streamlit
+2. opencv-python
+3. cvzone
+4. numpy
+5. pillow
+6. google-generativeai
